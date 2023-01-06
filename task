@@ -1,0 +1,17 @@
+public class Test3 {
+		@Test 
+
+		public void CreateaccontTest() {
+			System.out.println("account is created");
+		}
+		@Test(invocationCount=5)
+		 public void ModifyaccountTest() {
+			System.out.println("account is Modify");
+		}
+		@Test
+		public void DeleteaccountTest () {
+			System.out.println("account is deleted");
+		}
+		}
+
+}
