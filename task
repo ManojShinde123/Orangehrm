@@ -11,7 +11,12 @@ public class Test3 {
 		@Test
 		public void DeleteaccountTest () {
 			System.out.println("account is deleted");
+		 
+		         uplod
+		
+		
 		}
+		
 		}
 
 }
